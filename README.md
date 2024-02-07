@@ -3,6 +3,7 @@
 - 👀 I’m interested in linux and python
 - 🌱 I’m planning on learning how to make a linux distro 
 - 💞️ I’m looking to collaborate on making a distro
+- 🦗 I'm a frequent distro hopper
 - 📫 How to reach me: discord = idontknowtbh.
 - 😄 Pronouns: She/They
 - ⚡ Fun fact: I use(d) arch
