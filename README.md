@@ -7,6 +7,7 @@
 - 📫 How to reach me: discord = idontknowtbh.
 - 😄 Pronouns: She/They
 - ⚡ Fun fact: I use(d) arch
+- 🌃 [https://astrolazybones.github.io](https://astrolazybones.github.io)
 
 <!---
 astroLazybones/astroLazybones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
