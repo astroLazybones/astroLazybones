@@ -4,7 +4,7 @@
 - 🌱 I’m planning on learning how to make a linux distro 
 - 💞️ I’m looking to collaborate on making a distro
 - 🦗 I'm a frequent distro hopper
-- 📫 How to reach me: discord = idontknowtbh.
+- 📫 How to reach me: discord = astrolazybones
 - 😄 Pronouns: She/They
 - ⚡ Fun fact: I use(d) arch
 - 🌃 [https://astrolazybones.github.io](https://astrolazybones.github.io)
