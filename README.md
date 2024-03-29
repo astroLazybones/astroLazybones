@@ -6,7 +6,7 @@
 - 🦗 I'm a frequent distro hopper
 - 📫 How to reach me: discord = astrolazybones
 - 😄 Pronouns: She/They
-- ⚡ Fun fact: I use(d) arch
+- ⚡ Fun fact: I use arch
 - 🌃 [https://astrolazybones.github.io](https://astrolazybones.github.io)
 
 <!---
