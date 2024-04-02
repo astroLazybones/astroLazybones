@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=astroLazybones&theme=nightowl)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=astrolazybones&theme=catppuccin-frappe)](https://git.io/streak-stats)
 - 👋 Hi, I’m @astroLazybones
 - 👀 I’m interested in linux and python
 - 🌱 I’m planning on learning how to make a linux distro 
