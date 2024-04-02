@@ -1,4 +1,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=astrolazybones&theme=catppuccin-frappe)](https://git.io/streak-stats)
+<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=astrolazybones&show_icons=true&theme=catppuccin_mocha)
 - 👋 Hi, I’m @astroLazybones
 - 👀 I’m interested in linux and python
