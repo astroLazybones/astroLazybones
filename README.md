@@ -1,7 +1,8 @@
+<div align="center">>
 [![GitHub Streak](https://streak-stats.demolab.com?user=astrolazybones&theme=catppuccin-mocha)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=astrolazybones&show_icons=true&theme=catppuccin_mocha)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astrolazybones&layout=pie&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 - 👋 Hi, I’m @astroLazybones
 - 👀 I’m interested in various operating systems
 - ✨ I like to code in rust, python, bash and js
@@ -9,7 +10,7 @@
 - 🦗 I'm a frequent distro hopper
 - 📫 How to reach me: discord = astrolazybones.github.io
 - 😄 Pronouns: She/They
-- ⚡ Fun fact: I use arch
+- ⚡ Fun fact: I use gentoo
 - 🌃 [https://astrolazybones.github.io](https://astrolazybones.github.io)
 
 <!---
