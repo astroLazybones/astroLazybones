@@ -1,4 +1,4 @@
-<div align="center">
+<div style="text-align:center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=astrolazybones&theme=catppuccin-mocha)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=astrolazybones&show_icons=true&theme=catppuccin_mocha)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astrolazybones&layout=pie&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
