@@ -10,7 +10,7 @@
 - 🦗 I'm a frequent distro hopper
 - 📫 How to reach me: discord = astrolazybones.github.io
 - 😄 Pronouns: She/They
-- ⚡ Fun fact: I use gentoo btw
+- ⚡ Fun fact: I use arch btw
 - 🌃 [astrolazybones.github.io](https://astrolazybones.github.io)
 
 <!---
