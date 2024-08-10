@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astrolazybones&layout=pie&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @astroLazybones
 - 👀 I’m interested in various operating systems
-- ✨ I like to code in rust, python, bash and js
+- ✨ I like to code in rust, python, v and go
 - 🌱 I’m planning on learning how to make a linux distro
 - 🦗 I'm a frequent distro hopper
 - 📫 How to reach me: discord = astrolazybones.github.io
