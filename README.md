@@ -9,7 +9,7 @@
 - 🌱 I’m planning on learning how to make a linux distro
 - 🦗 I'm a frequent distro hopper
 - 📫 How to reach me: discord = astrolazybones.github.io
-- 😄 Pronouns: She/They
+- 😄 Pronouns: She/Her
 - 🍋 Pro popular repo typo fixer
 - ⚡ Fun fact: I use arch btw
 - 🌃 [astrolazybones.github.io](https://astrolazybones.github.io)
