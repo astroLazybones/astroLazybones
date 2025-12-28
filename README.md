@@ -7,7 +7,7 @@
 - 👀 I’m interested in various operating systems
 - ✨ I like to code in rust, python, v and go
 - 🌱 I’m planning on learning how to make a linux distro
-- 🦗 I'm a frequent distro hopper
+- 🦗 Infrequent distro hopper
 - 📫 How to reach me: discord = astrolazybones.github.io
 - 😄 Pronouns: She/Her
 - 🍋 Pro popular repo typo fixer
