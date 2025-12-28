@@ -6,12 +6,12 @@
 - 👋 Hi, I’m @astroLazybones
 - 👀 I’m interested in various operating systems
 - ✨ I like to code in rust, python, v and go
-- 🌱 I’m planning on learning how to make a linux distro
+- 🌱 I’m not planning on learning how to make a linux distro
 - 🦗 Infrequent distro hopper
 - 📫 How to reach me: discord = astrolazybones.github.io
 - 😄 Pronouns: She/Her
 - 🍋 Pro popular repo typo fixer
-- ⚡ Fun fact: I use arch btw
+- ⚡ Fun fact: I used arch btw
 - 🌃 [astrolazybones.github.io](https://astrolazybones.github.io)
 
 <!---
