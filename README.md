@@ -10,7 +10,7 @@
 - 🦗 Infrequent distro hopper
 - 📫 How to reach me: discord = astrolazybones.github.io
 - 😄 Pronouns: She/Her
-- 🍋 Pro popular repo typo fixer
+- 🍋 Pro repo typo fixer
 - ⚡ Fun fact: I used arch btw
 - 🌃 [astrolazybones.github.io](https://astrolazybones.github.io)
 
