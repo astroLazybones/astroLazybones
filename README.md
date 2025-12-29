@@ -8,7 +8,7 @@
 - ✨ I like to code in rust, python, v and go
 - 🌱 I’m not planning on learning how to make a linux distro
 - 🦗 Infrequent distro hopper
-- 📫 How to reach me: discord = astrolazybones.github.io
+- 📫 How to reach me: discord = goodgamerkindof
 - 😄 Pronouns: She/Her
 - 🍋 Pro repo typo fixer
 - ⚡ Fun fact: I used arch btw
