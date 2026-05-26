@@ -12,7 +12,7 @@
 - 😄 Pronouns: She/Her
 - 🍋 Pro repo typo fixer
 - ⚡ Fun fact: I used arch btw
-- 🌃 [astrolazybones.github.io](https://astrolazybones.github.io)
+- 🌃 [astrolazybones.github.io](https://astrolazybones.github.io) / [youwill.click](https://youwill.click)
 
 <!---
 astroLazybones/astroLazybones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
